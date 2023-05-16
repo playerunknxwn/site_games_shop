@@ -58,7 +58,7 @@ section .container {
 }
 
 section .container {
-    align-items: flex-end;
+    align-items: center;
 }
 section {
     padding: 24px 0;
